@@ -18,7 +18,7 @@
 <li><a href="https://goo.gl/cDkEFK">ER Diagram &amp; Example Database @GGDrive</a></li>
 </ul>
 <h2 id="sql-tutorial-video">SQL Tutorial Video</h2>
-<p><a href="https://www.facebook.com/datarockie/videos/1939523796061188/">DataRockie Fundamental SQL Tutorial</a></p>
+<p><a href="https://www.facebook.com/datarockie/videos/1939523796061188/">Fundamental SQL Tutorial by DataRockie</a></p>
 <h2 id="thanks-to">Thanks to</h2>
 <p><a href="https://www.facebook.com/datarockie/">Datarockie (FB Fanpage)</a> for tutorial and many information.</p>
 
