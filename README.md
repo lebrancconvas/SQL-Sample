@@ -10,7 +10,7 @@
 <li>DB Browser for SQLite <a href="https://www.facebook.com/datarockie/posts/1935574833122751">(How to Download)</a></li>
 <li>IDE : Sublime Text 3 <a href="https://www.facebook.com/datarockie/posts/1922259304454304">(How to Download)</a></li>
 </ul>
-<h2 id="coach">Coach</h2>
+<h2 id="coach--lecturer">Coach / Lecturer</h2>
 <p><a href="https://github.com/toyeiei">Kasidis Satangmongkol(P’Toy)</a> Admin of <a href="https://www.facebook.com/datarockie/">DataRockie</a></p>
 <h2 id="database-from">Database from</h2>
 <ul>
