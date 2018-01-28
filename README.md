@@ -17,7 +17,7 @@
 <li><a href="https://www.kaggle.com/lrcusack/pokemontrainers">Pokemon Trainers Database</a></li>
 <li><a href="https://www.kaggle.com/jeradrose/hearthstone-cards">Hearthstone Cards Database</a></li>
 <li><a href="https://www.kaggle.com/aniruddhaachar/audio-features">Audio Features for Playlist Creation Database</a></li>
-<li><a href="https://www.kaggle.com/mchirico/pennsylvania-safe-schools-report">Pennsylvania Safe Schools Report</a></li>
+<li><a href="https://www.kaggle.com/mchirico/pennsylvania-safe-schools-report">Pennsylvania Safe Schools Report Database</a></li>
 </ul>
 </li>
 <li><a href="https://goo.gl/cDkEFK">ER Diagram &amp; Example Database @GGDrive</a></li>
