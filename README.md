@@ -12,7 +12,13 @@
 </ul>
 <h2 id="database-from">Database from</h2>
 <ul>
-<li><a href="https://www.kaggle.com/datasets">Kaggle</a></li>
+<li><a href="https://www.kaggle.com/datasets">Kaggle</a>
+<ul>
+<li><a href="https://www.kaggle.com/lrcusack/pokemontrainers">Pokemon Trainers Database</a></li>
+<li><a href="https://www.kaggle.com/jeradrose/hearthstone-cards">Hearthstone Cards Database</a></li>
+<li><a href="https://www.kaggle.com/aniruddhaachar/audio-features">Audio Features for Playlist Creation Database</a></li>
+</ul>
+</li>
 <li><a href="https://goo.gl/cDkEFK">ER Diagram &amp; Example Database @GGDrive</a></li>
 </ul>
 <h2 id="tutorial">Tutorial</h2>
